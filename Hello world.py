@@ -20,7 +20,7 @@ goto: file-> settings ->project: python-> python interpreter   there is a long l
 
 import matplotlib.pyplot as plt
 import numpy as np
-x=2-10
+x=3-20-2020
 #test
 
 x = np.linspace(0, 2, 100)
